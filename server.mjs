@@ -33,7 +33,7 @@ const server = http.createServer((req, res) => {
     case "/pageThree":
       res.write(`<h1 style="color: blue">Hello Page 3</h1>`);
       res.write(
-        '<img src="https://www.bing.com/ck/a?!&&p=4bb6e1282a7851ed24de3ee2d3255a1f56e925bab227ca667c632a6650d395ecJmltdHM9MTc0NDMyOTYwMA&ptn=3&ver=2&hsh=4&fclid=23a2e361-014e-6f17-2dc3-f6a000e36ec5&u=a1L2ltYWdlcy9zZWFyY2g_cT1ndWFtJTIwcGljJkZPUk09SVFGUkJBJmlkPUNCMTU0NTRGQjlCN0YzODMwQTlDRUQ2NUQ1OEExRjNGMzQxQzkyRDU&ntb=1" height=200px></img>'
+        '<img src="https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/i8v1v92sfkikn0ro47ba/ScubaDivingLessonsinGuambyJNSDives.jpg" height=200px></img>'
       );
 
       break;
